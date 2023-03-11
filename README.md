@@ -1,1 +1,3 @@
-# UoC_ARS_VisualDataProcessing
+# Visual Data Processing
+
+## University of Calgary AI Research School
