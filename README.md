@@ -11,4 +11,6 @@ If you open this repo in Colab, you see two notebooks:
 
 Have fun coding!
 
-Last edit: 03/11/2023 - BKh
+**Note**: A video recording of this session is available [here](https://youtu.be/Y4fXz8wsgGg).
+
+Last edit: 06/30/2023 - BKh
